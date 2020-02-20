@@ -1,0 +1,24 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "to send midi messages to hololens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jazz-midi": "^1.7.1",
+    "mongodb": "^3.5.0",
+    "mongoose": "^5.8.7",
+    "request": "^2.88.0",
+    "web-midi-api": "^2.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
