@@ -14,7 +14,7 @@
     "express": "^4.17.1",
     "jazz-midi": "^1.7.1",
     "mongodb": "^3.5.0",
-    "mongoose": "^5.8.7",
+    "mongoose": "^5.13.15",
     "request": "^2.88.0",
     "web-midi-api": "^2.0.6"
   },
